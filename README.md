@@ -1,5 +1,11 @@
 # Contains Studio AI Agents
 
+> **Built upon the foundational work of:**
+> - **Michael Galpert** (mgalpert) - for the original `contains-agents` concept and personas
+> - **Contains Studio** - for the vision of rapid, agent-assisted development ([agents](https://github.com/contains-studio/agents))
+>
+> _Expanded and modified to create a fully comprehensive, context-aware studio ecosystem with 40+ specialized agents._
+
 A comprehensive collection of specialized AI agents designed to accelerate and enhance every aspect of rapid development. Each agent is an expert in their domain, ready to be invoked when their expertise is needed.
 
 ## 📥 Installation & Usage
@@ -263,11 +269,3 @@ To improve existing agents or suggest new ones:
 2. Test thoroughly with real projects
 3. Document performance improvements
 4. Share successful patterns with the community
-
-## 🙏 Credits
-
-This repository is built upon the foundational work of:
-- **Michael Galpert** (mgalpert) - for the original `contains-agents` concept and personas.
-- **Contains Studio** - for the vision of rapid, agent-assisted development [agents](https://github.com/contains-studio/agents).
-
-I have expanded and modified these original agents to create a fully comprehensive, context-aware studio ecosystem.
