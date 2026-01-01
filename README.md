@@ -21,7 +21,7 @@ These agents are designed to be platform-agnostic and can be used with various A
 
 ### For Cursor / VS Code with AI
 1. Copy the content of the agent markdown file you need.
-2. Paste it into your project's `.cursorrules` file or use it as a "System Prompt" in your AI chat settings.
+2. Paste it into your project's `.cursor/rules` file or use it as a "System Prompt" in your AI chat settings.
 3. You can also save these as reusable snippets or "Rules for AI" within your IDE configuration.
 
 ### For Gemini / Other LLMs
