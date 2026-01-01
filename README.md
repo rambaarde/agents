@@ -9,7 +9,7 @@ These agents are designed to be platform-agnostic and can be used with various A
 ### For Claude Code
 1. **Download this repository:**
    ```bash
-   git clone https://github.com/contains-studio/agents.git
+   git clone https://github.com/rambaarde/agents.git
    ```
 
 2. **Copy to your agents directory:**
